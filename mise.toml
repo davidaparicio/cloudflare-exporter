@@ -1,5 +1,6 @@
 [tools]
 go = "1.25.0"
 golangci-lint = "latest"
+goreleaser = "latest"
 pre-commit = "latest"
 venom = "latest"
