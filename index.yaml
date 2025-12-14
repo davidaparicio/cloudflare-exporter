@@ -6,6 +6,30 @@ entries:
         - Initial helm chart changelog
     apiVersion: v2
     appVersion: 0.0.16
+    created: "2025-12-14T13:47:38.57829131Z"
+    description: A Helm chart for cloudflare exporter
+    digest: bc6c02f061301b7dbfb999a1d8ba10e30594d9e234d74e79df35c5deafb36ed6
+    home: https://github.com/lablabs/cloudflare-exporter
+    icon: https://www.cloudflare.com/img/logo-web-badges/cf-logo-on-white-bg.svg
+    keywords:
+    - prometheus
+    - cloudflare
+    - monitoring
+    maintainers:
+    - name: martinhaus
+    - name: haad
+    name: cloudflare-exporter
+    sources:
+    - https://github.com/lablabs/cloudflare-exporter
+    type: application
+    urls:
+    - https://github.com/davidaparicio/cloudflare-exporter/releases/download/cloudflare-exporter-0.2.3/cloudflare-exporter-0.2.3.tgz
+    version: 0.2.3
+  - annotations:
+      artifacthub.io/changes: |
+        - Initial helm chart changelog
+    apiVersion: v2
+    appVersion: 0.0.16
     created: "2025-10-03T17:24:40.08986011Z"
     description: A Helm chart for cloudflare exporter
     digest: 0af6d0e5113475ba58c36d6e6fdc7755034548e61cf08fb73121d557bc3ee769
@@ -336,4 +360,4 @@ entries:
     urls:
     - https://github.com/lablabs/cloudflare-exporter/releases/download/cloudflare-exporter-0.0.3/cloudflare-exporter-0.0.3.tgz
     version: 0.0.3
-generated: "2025-10-03T17:24:40.089938878Z"
+generated: "2025-12-14T13:47:38.578400564Z"
